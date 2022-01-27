@@ -1,25 +1,28 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-jumbotron",
+  "version": "1.0.0",
+  "description": "Responsive Jumbotron built with Bootstrap 5. Examples of classic hero component, with background image, with navbar and many other combinations.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-jumbotron.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "cards",
     "bootstrap5",
-    "circle-image-view"
+    "jumbotron",
+    "bootstrap-jumbotron-image",
+    "bootstrap-jumbotron-navbar",
+    "bootstrap-jumbotron-animated-navbar"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-jumbotron/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/jumbotron/"
 }
